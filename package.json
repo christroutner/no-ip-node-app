@@ -1,0 +1,14 @@
+{
+  "name": "no-ip-node-app",
+  "version": "1.0.0",
+  "description": "A node application that can be run with PM2 to update no-ip at bootup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "no-ip": "^1.0.1"
+  }
+}
